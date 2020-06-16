@@ -8,7 +8,7 @@ function Footer() {
     
 
         
-      <marquee><h3 style={{color : "cornsilk", fontSize: "30px"}}> this site build by hamza kamel </h3></marquee>
+      <marquee><h3 className="marq"> this site build by hamza kamel </h3></marquee>
            
       
   
